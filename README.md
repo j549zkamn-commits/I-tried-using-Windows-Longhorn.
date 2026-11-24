@@ -1,2 +1,15 @@
-# I-tried-using-Windows-Longhorn.
-Windows Longhornを仮想環境で動かしてみた記録リポジトリです
+# 1.概要
+このリポジトリーは、WindowsXPの後継OSとして開発途中だってOS　Windows Longhornを仮想マシン内での起動ができたので、記録として作成しております。
+
+# 2.画像
+## ディスクトップ
+
+<img width="1365" height="696" alt="2026-11-23_233501" src="https://github.com/user-attachments/assets/18562f9e-fe29-4418-8ab1-500e5012fe51" />
+
+# 3.今後の展望
+
+Windowsの日本語化に挑戦するのと、動作検証です。
+
+まだ現時点ではセットアップしか行っていないので色々と検証などを行っていきたいと思います。
+
+完成後は、このリポジトリーを更新する予定です。
